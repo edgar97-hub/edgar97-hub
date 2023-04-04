@@ -5,4 +5,5 @@ https://techflux.web.app
 | comand | data |
 | ------ |------|
 |        |------|
+
 ~~ ~~ data
